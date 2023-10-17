@@ -1,0 +1,9 @@
+.add-new-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    background-color: lightblue;
+    border: 1px solid darkgray;
+}
